@@ -21,8 +21,9 @@ Installation guide:
 4. **Include data**   
    Copy data in the ./data/** folder according to the paths provided in the *Inputs* section of the script.
 
-5. **Install dependencies**
+5. **Install dependencies**   
    Install required Python packages through pip.
+
 
 
 
