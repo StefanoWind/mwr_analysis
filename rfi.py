@@ -20,7 +20,7 @@ matplotlib.rcParams['savefig.dpi']=500
 plt.close("all")
 
 #%% Inputs
-source_hbb=os.path.join(cd,'data','Assignment 2 Dataset','sermon_c414_20250609T114551_20250609T114719_level1b.csv')
+source_hbb=os.path.join(cd,'data','Assignment 2 Dataset','propietary_data3.csv')
 
 #qc
 min_B=0#minimum values of PSD
