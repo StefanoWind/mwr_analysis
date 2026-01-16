@@ -18,7 +18,8 @@ Installation guide:
    ```bash
    git clone https://github.com/StefanoWind/mwr_analysis.git
 
-4. **Include data**
-   Copy data in the ./data folder according to the paths provided in the *Inputs* section of the script.
+4. **Include data**   
+   Copy data in the ./data/** folder according to the paths provided in the *Inputs* section of the script.
+
 
 
